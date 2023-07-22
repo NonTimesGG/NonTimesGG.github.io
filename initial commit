@@ -1,0 +1,32 @@
+<html>
+  <title>Mentalidad Narcisista</title>
+ <head>
+   <h1><em>Presentación</em></h1>
+   <p>Sean bienvenidos a mi página web, hoy
+   les presentaré 3 leyes del poder que les podría servir que son resumidas por mis palabras</p>
+   <h2>Motivos:</h2>
+  <p>Estas leyes no las aplico, sin embargo, quise compartirles los pensamientos que poseen aquellas personas de nuestra vida cotidiana</p>
+ </head>
+ <body>
+   <ol>
+     <li>
+      <strong><em>"Nunca te muestres superior
+     a los demás, muéstrate arriba
+     del promedio."</em></strong></li>
+     <p>Esto no quiere decir que no muestres tus habilidades, solo que no trates de llamar tanto la atención, tus superiores buscarán destruirte. </p>
+     <li><em><strong>"Tus amigos pueden ser más peligrosos que tus enemigos."</strong></em></li>
+     <p>Los amigos caen más fácilmente en la envidia, ya que pasas más tiempo con ellos, siempre observa si de verdad son tus amigos.</p>
+     <li><em><strong>"Usa la ignorancia de las personas para debilitarlos."</strong></em></li>
+     <p>A veces ser el chistoso de una clase, puede ser divertido, sin embargo, puedes usar su ignorancia para que te apoyen, aunque saldrías como un estafador.</p>
+   </ol>
+   <form action="christian18phoenix@gmail.com">
+     <fieldset>
+     <input type="text" required placeholder="tu opinión">
+     <p>¿estás de acuerdo con este pensamiento?</p>
+     <input type="radio"id="no"name="no-sí">no
+    <input type="radio"id="sí"name="no-sí">sí
+    <button type="submit">submit</button>
+     </fieldset>
+   </form>
+ </body>
+</html>
